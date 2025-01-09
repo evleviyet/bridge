@@ -1,0 +1,9 @@
+{
+  "name": "bolt-github-bridge",
+  "version": "1.0.0",
+  "description": "Bridge between Bolt.New API and GitHub API",
+  "scripts": {
+    "start": "python src/main.py",
+    "test": "python -m unittest discover tests"
+  }
+}
